@@ -10,35 +10,35 @@ During the development, I have learnt how to create a website from scratch on my
 
 <h5>Home Page</h5>
 The page in back-end is shown in screen shot, some achievements are: 
-•	Installed “Meta Slider” plugins to display pictures in the slider. 
-•	Added social media icons that direct the users to the specific websites. 
-•	Added text and button that link to “Photos” page.
-•	Embedded a video from YouTube.
-•	Use “Page Builder” to modify page layout.
+- Installed “Meta Slider” plugins to display pictures in the slider. 
+- Added social media icons that direct the users to the specific websites. 
+-	Added text and button that link to “Photos” page.
+-	Embedded a video from YouTube.
+-	Use “Page Builder” to modify page layout.
 
  
 
 <h5>About Page</h5>
 
 The page in back-end is shown in screen shot, some achievements are: 
-•	Added text and picture
-•	Enable the sidebar on the right side (search, meta and calendar)
+-	Added text and picture
+-	Enable the sidebar on the right side (search, meta and calendar)
 
  
 
 <h5>Contact Page</h5>
 
 The page in back-end is shown in screen shot, some achievements are: 
-•	Installed “Contact Form 7” plugins. 
-•	Use “Page Builder” to modify page layout.
-•	Added a Google map
+-	Installed “Contact Form 7” plugins. 
+-	Use “Page Builder” to modify page layout.
+-	Added a Google map
 
  
  
 <h5>Photo Page</h5>
 
 The page in back-end is shown in screen shot, some achievements are: 
-•	Uploaded pictures to media.
-•	Installed “Lightbox Plus Colorbox” plugins to popup pictures.
+-	Uploaded pictures to media.
+-	Installed “Lightbox Plus Colorbox” plugins to popup pictures.
 
  
